@@ -36,6 +36,9 @@ And finally, start the application:
 php artisan serve
 ```
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## Contact
 - **Email:** ourdarkchemistry@gmail.com
 - **GitHub:** https://github.com/ourdarkchemistry
