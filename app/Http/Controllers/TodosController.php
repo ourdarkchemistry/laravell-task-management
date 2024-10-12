@@ -9,7 +9,6 @@ class TodosController extends Controller
 {
     public function index()
     {
-        //fetch all data
         $todos = Todo::all();
         return view('todos/index')->with('todos',$todos);
     }
