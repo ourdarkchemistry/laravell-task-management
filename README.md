@@ -1,4 +1,4 @@
-# Task-Management-System-Laravel
+# Laravel-Task-Management-System
 
 A simple task management app
 
