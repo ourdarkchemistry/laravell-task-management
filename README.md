@@ -48,5 +48,9 @@ And finally, start the application:
 php artisan serve
 ```
 
-and visit [http://localhost:8000](http://localhost:8000) to see the application in action.
+and visit [http://localhost:8000](http://localhost:8000) to see the application in action.`
+
+## Contact
+- **Email:** ourdarkchemistry@gmail.com
+- **GitHub:** https://github.com/ourdarkchemistry
 
